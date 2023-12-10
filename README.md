@@ -5,19 +5,19 @@
 
 - 🌱 I’m currently learning **React, vue, laravel**
 
-- 👯 I’m looking to collaborate on **Projects based on laravel**
+- 👯 I’m looking to collaborate on **Projects based on laravel for study**
 
 - 🤝 I’m looking for help with **Improve my stack & knowledge**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VitorPPimentel](https://github.com/VitorPPimentel)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/VitorPPimentel)
 
-- 📝 I regularly write articles on [https://medium.com/@vitorpimentel-c](https://medium.com/@vitorpimentel-c)
+- 📝 I regularly write articles on [MEDIUM](https://medium.com/@vitorpimentel-c)
 
 - 💬 Ask me about **Testing tools and automated tests**
 
 - 📫 How to reach me **vitorpimentel.c@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vitor-pimentel/](https://www.linkedin.com/in/vitor-pimentel/)
+- 📄 Know about my experiences [LINKEDIN](https://www.linkedin.com/in/vitor-pimentel/)
 
 - ⚡ Fun fact **I love software testing**
 
