@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vitor Pimentel Barbosa</h1>
 <h3 align="center">A junior fullstack developer from Brasil</h3>
 
-- 🔭 I’m currently working on **Landing page projects for study and a RPG site**
+- 🔭 I’m currently working on **Datacom - consultoria em ti**
 
-- 🌱 I’m currently learning **React, vue, laravel**
+- 🌱 I’m currently learning **React, vue, laravel, node**
 
-- 👯 I’m looking to collaborate on **Projects based on laravel for study**
+- 👯 I’m looking to collaborate on **Projects based on react and node for study**
 
-- 🤝 I’m looking for help with **Improve my stack & knowledge**
+- 🤝 I’m looking for help with **Improve my knowledge and activity**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/VitorPPimentel)
 
