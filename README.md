@@ -23,7 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vitor-pimentel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitor-pimentel/" height="30" width="40" /></a>
+  https://beacons.ai/pimentelvitor
+<a href="https://beacons.ai/pimentelvitor" target="blank"><img align="center" src="https://assets-global.website-files.com/61734ecee390bd3fe4fbfbb4/658315a8cc8cc05b4a90af40_BeaconsLogoBlack.svg" alt="https://beacons.ai/pimentelvitor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
