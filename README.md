@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React, vue, laravel, node**
 
-- 👯 I’m looking to collaborate on **Projects based on react and node for study**
+- 👯 I’m looking to collaborate on **Web development and automation projects**
 
-- 🤝 I’m looking for help with **Improve my knowledge and activity**
+- 🤝 I’m looking for help with **python automation projects**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/VitorPPimentel)
 
